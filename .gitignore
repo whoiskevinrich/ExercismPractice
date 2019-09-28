@@ -397,3 +397,6 @@ dist/**/*
 
 # ignore yarn.lock
 yarn.lock
+
+# Ignore python tests
+.pytest_cache/
